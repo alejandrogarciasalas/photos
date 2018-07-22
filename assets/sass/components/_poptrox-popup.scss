@@ -75,7 +75,7 @@
 
 		.caption {
 			@include padding(2em, 2em);
-			@include vendor('background-image', 'linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%)');
+			// @include vendor('background-image', 'linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%)');
 			bottom: 0;
 			cursor: default;
 			left: 0;
