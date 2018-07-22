@@ -51,31 +51,46 @@
 		header:				4em
 	);
 
-// Font.
-	$font: (
-		family:				('Source Sans Pro', Helvetica, sans-serif),
-		family-fixed:		('Courier New', monospace),
-		weight:				300,
-		weight-bold:		300,
-		weight-extrabold:	400,
-		kerning:			0.025em,
-		kerning-alt:		0.1em
-	);
 
 // Palette.
 	$palette: (
-		bg:					#242629,
-		bg-alt:				#1f2224,
+		// bg:					#242629,
+		// bg-alt:				#1f2224,
+		bg:					black,
+		bg-alt:				black,		
 		bg-overlay:			transparentize(#242629, 0.75),
 		bg-overlay-alt:		transparentize(#242629, 0.5),
 		bg-ie-overlay:		transparentize(#242629, 0.45),
 		bg-ie-overlay-alt:	transparentize(#242629, 0.2),
-		fg:					#a0a0a1,
-		fg-bold:			#ffffff,
-		fg-medium:			#707071,
-		fg-light:			#505051,
-		border:				#36383c,
-		border-bg:			#34363b,
-		border-bg-alt:		#44464b,
-		accent1:			#34a58e
+		// fg:					#a0a0a1,
+		// fg-bold:			#ffffff,
+		// fg-medium:			#707071,
+		// fg-light:			#505051,
+		// border:				#36383c,
+		// border-bg:			#34363b,
+		// border-bg-alt:		#44464b,
+		// accent1:			#34a58e
+		fg:					white,
+		fg-bold:			white,
+		fg-medium:			white,
+		fg-light:			white,
+		border:				white,
+		border-bg:			white,
+		border-bg-alt:		white,
+		accent1:			#34a58e		
 	);
+
+// Font.
+	// $font: (
+	// 	family:				('Source Sans Pro', Helvetica, sans-serif),
+	// 	family-fixed:		('Courier New', monospace),
+	// 	weight:				300,
+	// 	weight-bold:		300,
+	// 	weight-extrabold:	400,
+	// 	kerning:			0.025em,
+	// 	kerning-alt:		0.1em
+	// );
+
+$font: (
+	family: ('NeueHaasUnicaPro-Regular', Helvetica, sans-serif),
+);
