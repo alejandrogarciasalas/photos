@@ -2,21 +2,21 @@
 baseurl: ""
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+# google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photos by Alejandro Garcia Salas"
 subtitle: "photos taken by alejandro garcia salas"
-author: "Alejandro Garcia Salas"
+author: "Alejandro García Salas"
 header:
  title: "Photos"
- subtitle: "by Alejandro Garcia Salas"
-footer:
- name: "Hello!"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "This page was forked from"
-web_design: "AJ"
-social_urls:
+ subtitle: "by Alejandro García Salas"
+# footer:
+ # name: "Hello!"
+ # bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
+ # github: "This page was forked from"
+# web_design: "AJ"
+# social_urls:
   # facebook: "https://www.facebook.com/ramswaroop"
   # twitter: "https://www.twitter.com/ramswarooppatra"
   # instagram: "https://www.instagram.com/ramswarooppatra"
