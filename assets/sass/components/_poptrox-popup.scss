@@ -91,11 +91,6 @@
 			p {
 				color: _palette(fg-bold);
 			}
-
-			visibility: visible;
-			&:hover {
-				visibility: hidden;
-			}
 		}
 
 		.loader {
